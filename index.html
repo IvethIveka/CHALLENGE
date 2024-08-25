@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es-mx">
+<head>
+    <meta charset="UTF-8"> 
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Challenge encriptador de texto Iveth</title>
+    <link rel="stylesheet" href="style.css">
+    
+
+</head>
+<body>
+    <header>
+        <img class="Logo" src="assets/Logo.png" alt="Logo Alura Latam">
+        
+    </header>
+    
+    <main class="contenedor-principal">
+        <section class="seccion-texto">
+            <textarea class="Caja1DigitarTexto" cols="30" rows="10" placeholder="Ingrese el texto aqui"></textarea>
+            <p class="error" id="mensajeError">Recuerda ingresar Solo letras minúsculas y sin acentos</p>
+            
+            <div>
+                <h4 class="informacion">Solo letras minúsculas y sin acentos</h4>
+            </div>
+            <div class="botones">
+                <button class="botonEncriptar">Encriptar</button>
+                <button class="botonDesencriptar">Desencriptar</button>
+                <button class="botonBorrar">Borrar</button>
+            </div>  
+        </section>
+
+        <section class="seccion-mensaje">
+            <textarea class="Caja2Mensaje" cols="30" rows="10"></textarea>
+            <h2 class="mensaje_emergente">Ningún mensaje fué encontrado</h2>
+                <p class="mensaje_emergente_recomendación">Ingresa el texto que deseas encriptar o desencriptar</p>
+
+            <div>
+                <button class="boton-copiar">Copiar</button>
+            </div>
+            
+        </section>
+    </main>
+
+    <footer class="footer">
+        <p class="footer_texto"> Challenge de Alura Latam desarrollado por <strong class="nombre_desarollador">Iveth Rivera</strong> en 2024</p>
+    </footer> 
+
+    <script src="app.js"></script>
+</body>
+</html>
