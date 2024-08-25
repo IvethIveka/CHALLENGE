@@ -1,5 +1,6 @@
 <h1>Challenge Alura Latam Encriptador de texto</h1>
 -Estado del proyecto - Terminado
+
 # Encriptador de Texto
 
 Este proyecto es una aplicación web simple para encriptar y desencriptar texto utilizando un conjunto específico de reglas de sustitución de caracteres. Es ideal para prácticas educativas y para entender los conceptos básicos de manipulación de texto y manejo de eventos en JavaScript.
@@ -51,6 +52,3 @@ Puedes ver el proyecto en vivo aquí: [Encriptador de Texto](https://ivethiveka.
 No se requiere instalación. Simplemente clona el repositorio y abre el archivo `index.html`
 ```bash
 https://github.com/IvethIveka/CHALLENGE.git
-
-
-
