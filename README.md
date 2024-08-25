@@ -27,6 +27,11 @@ Por ejemplo, el texto "hola" se encripta como "hoberlai".
 
 ![Descripción de la imagen](assets/Captura%20de%20pantalla%20CHALLENGE.jpg)
 
+## Enlace al Proyecto
+
+Puedes ver el proyecto en vivo aquí: [Encriptador de Texto](https://ivethiveka.github.io/CHALLENGE/)
+
+
 ## Cómo Usar
 
 1. **Ingresar Texto**: Escribe o pega el texto que deseas encriptar en el área de texto proporcionada.
@@ -46,8 +51,6 @@ Por ejemplo, el texto "hola" se encripta como "hoberlai".
 No se requiere instalación. Simplemente clona el repositorio y abre el archivo `index.html`
 ```bash
 https://github.com/IvethIveka/CHALLENGE.git
-
-https://ivethiveka.github.io/CHALLENGE/
 
 
 
