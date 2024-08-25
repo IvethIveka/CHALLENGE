@@ -44,4 +44,8 @@ Por ejemplo, el texto "hola" se encripta como "hoberlai".
 ## Instalación
 
 No se requiere instalación. Simplemente clona el repositorio y abre el archivo `index.html`
+```bash
+git clone https://github.com/IvethIveka/CHALLENGE.git
+cd CHALLENGE
+open index.html
 
