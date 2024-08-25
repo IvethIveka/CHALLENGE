@@ -25,7 +25,7 @@ Por ejemplo, el texto "hola" se encripta como "hoberlai".
 
 ## Captura de Pantalla
 
-![Captura de pantalla del Encriptador de Texto](images/Captura de pantalla CHALLENGE.jpg)
+![Descripción de la imagen](assets/Captura%20de%20pantalla%20CHALLENGE.jpg)
 
 ## Cómo Usar
 
