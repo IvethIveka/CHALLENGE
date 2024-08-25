@@ -47,9 +47,6 @@ No se requiere instalación. Simplemente clona el repositorio y abre el archivo 
 ```bash
 https://github.com/IvethIveka/CHALLENGE.git
 
-## Interactua
-Puedes interactuar con el programa y ver el resultado final en el siguiente enlace
-```bash
 https://ivethiveka.github.io/CHALLENGE/
 
 
