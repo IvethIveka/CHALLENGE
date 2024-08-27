@@ -287,4 +287,8 @@ textarea {
         bottom: auto; 
         padding-top: 20px; 
     }
+ .nombre_desarollador {
+        display: block; /* Muestra el nombre del desarrollador como bloque completo */
+        width: auto; 
+    }
 }
