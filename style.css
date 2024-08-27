@@ -249,3 +249,28 @@ textarea {
     color: var(--color-cuaternaria);
     font-weight: bold;
 }
+/* Responsividad para dispositivos móviles */
+@media (max-width: 768px) {
+    .contenedor-principal {
+        flex-direction: column; /* Coloca los elementos en columnas, uno debajo del otro */
+        align-items: center; /* Centra los elementos horizontalmente */
+        height: auto; /* Ajusta la altura para que se adapte al contenido */
+    }
+
+    .seccion-texto, 
+    .seccion-mensaje {
+        max-width: 100%; /* Asegura que cada sección ocupe el ancho completo del contenedor */
+        margin: 0; /* Elimina los márgenes */
+    }
+
+    .botones {
+        flex-direction: column; /* Coloca los botones uno debajo del otro */
+        align-items: center; /* Centra los botones horizontalmente */
+        gap: 10px; /* Ajusta el espacio entre los botones */
+    }
+
+    .informacion {
+        font-size: small; /* Reduce el tamaño de la fuente para móviles */
+        margin-top: 20px; /* Ajusta el margen superior para móviles */
+    }
+}
