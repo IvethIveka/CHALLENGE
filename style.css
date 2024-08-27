@@ -274,3 +274,10 @@ textarea {
         margin-top: 20px; /* Ajusta el margen superior para móviles */
     }
 }
+ /* Ajuste del footer en dispositivos móviles */
+    .footer {
+        position: relative; /* Cambia la posición a relativa para que no se superponga */
+        bottom: auto; 
+        padding-top: 20px; 
+    }
+}
