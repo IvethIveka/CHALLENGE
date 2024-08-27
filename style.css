@@ -258,6 +258,7 @@ textarea {
         flex-direction: column; /* Coloca los elementos en columnas, uno debajo del otro */
         align-items: center; /* Centra los elementos horizontalmente */
         height: auto; /* Ajusta la altura para que se adapte al contenido */
+        padding-bottom: 100px; /* Aumenta el padding inferior para espacio con el footer prevenir que el footer tape el boton copiar */
     }
 
     .seccion-texto, 
