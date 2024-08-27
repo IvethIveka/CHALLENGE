@@ -148,11 +148,10 @@ textarea {
     height: 300px;
     margin: 0;
     resize: none;
-    padding: 30px; /* Añadir relleno para alinear el contenido */
+    padding: 30px; 
     left: 200px;
     
 }
-
 
 .mensaje-container {
     text-align: center;
@@ -170,8 +169,6 @@ textarea {
 .mensaje_emergente_recomendación{
     font-size: 1rem;
     color: #101314;
-
-  
     
 }
 
@@ -196,7 +193,6 @@ textarea {
     width: 100%; /* Ajusta el ancho para que los botones se alineen correctamente */
     
 }
-
 
 
 .botonEncriptar {
@@ -267,7 +263,7 @@ textarea {
     .seccion-texto, 
     .seccion-mensaje {
         max-width: 100%; /* Asegura que cada sección ocupe el ancho completo del contenedor */
-        margin: 0; /* Elimina los márgenes */
+        margin: 0; 
     }
 
     .botones {
@@ -283,12 +279,13 @@ textarea {
 }
  /* Ajuste del footer en dispositivos móviles */
     .footer {
+        .footer {
         position: relative; /* Cambia la posición a relativa para que no se superponga */
-        bottom: auto; 
         padding-top: 20px; 
     }
- .nombre_desarollador {
+
+    .nombre_desarollador {
         display: block; /* Muestra el nombre del desarrollador como bloque completo */
-        width: auto; 
+        width: auto;
     }
 }
